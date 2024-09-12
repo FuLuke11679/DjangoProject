@@ -37,8 +37,6 @@ python manage.py runserver
 
 The backend should now be running at http://localhost:8000.
 
-Backend Setup (with Docker):
-
 Frontend Setup (Next.js) (no docker):
 
 Navigate to frontend directory:
